@@ -6,6 +6,7 @@ info:
   title: bookmytours
   version: 1.0.0
 basePath: /api
+host: bookmytours.onrender.com
 paths:
   /:
     get:
